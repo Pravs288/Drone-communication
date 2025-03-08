@@ -1,5 +1,5 @@
 
-# Simulation code for creating random locations and calculating path loss from uav\_ue to tethered base station random locations
+# Simulation code 
 
 **Authors**: Pravallika Katragunta, Michel Barbeau, Joaquin Garcia-Alfaro, Evangelos Kranakis, Venkata Srinivas Kothapalli
 
