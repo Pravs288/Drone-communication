@@ -29,9 +29,11 @@ multiple contexts, compared to a static TABS location.
 
 If using this code for research purposes, please cite:
 
-P. Katragunta, M. Barbeau, J. Garcia-Alfaro, E. Kranakis. Location Optimization for Tethered Aerial Base 
-Station Serving mmWave High Altitude UAVs. 2024 IEEE Canadian Conference on Electrical and Computer 
+P. Katragunta, M. Barbeau, J. Garcia-Alfaro, E. Kranakis, V. S. Kothapalli.
+Location Optimization for Tethered Aerial Base Station Serving mmWave High
+Altitude UAVs. 2024 IEEE Canadian Conference on Electrical and Computer
 Engineering (CCECE 2024), Kingston, Ontario, Canada, August 06–09, 2024.
+
 
 ```
 @inproceedings{katragunta2024location,
